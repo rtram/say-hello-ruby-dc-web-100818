@@ -1,3 +1,3 @@
 say_hello(name = "Ruby Programmer")
-  "Hello #{name}!"
+  puts "Hello #{name}!"
 end
